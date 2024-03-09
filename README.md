@@ -3,7 +3,7 @@
 
 
 
-![[[ENIDS.png](https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png)]]
+https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png
 > ENIDS = Early Network Intrusion Detection System
 
 
