@@ -3,7 +3,7 @@
 
 
 
-https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png
+![alt text](https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png?raw=true)
 > ENIDS = Early Network Intrusion Detection System
 
 
