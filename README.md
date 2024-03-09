@@ -2,9 +2,8 @@
 
 
 
-
-![alt text](https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png?raw=true)
 > ENIDS = Early Network Intrusion Detection System
+
 
 
 ![[Pasted image 20240308220517.png]]
@@ -167,7 +166,7 @@ def reset_leds():
     brightness = 0.1
     lights = APA102(num_leds, data_pin, clock_pin, brightness=brightness)
 
-    print("Toucan: now turning them all off again")
+    print("Toucan: now turning them all off again")> ENIDS = Early Network Intrusion Detection System
     for i in range(num_leds):
         lights.set_pixel(i, 0, 0, 0)  # Turn off each LED
     lights.show()
@@ -436,5 +435,5 @@ sudo systemctl status enids
 That's it! You may now disconnect (SSH session) from the Raspberry Pi and this script be active even if the Pi temporarily looses power.
 
 
-![[Canary in the coal mine.png]]
+![alt text](https://github.com/Cyb3rN0de/enids/blob/main/images/Canary.png?raw=true)
 >  Network canary (Source Dall-E)
