@@ -1,12 +1,10 @@
 #raspberrypi #pi #python3 #opencanary #toucan  #systemd  #service
 
-
-
+![alt text](https://github.com/Cyb3rN0de/enids/blob/main/images/ENIDS.png?raw=true)
 > ENIDS = Early Network Intrusion Detection System
 
 
-
-![[Pasted image 20240308220517.png]]
+![alt text](https://github.com/Cyb3rN0de/enids/blob/main/images/RaspberryPi3.jpg?raw=true)
 >  Raspberry Pi 3 + Toucan LED bar — Having detected SSH, RDP and HTTPS scans
 
 
